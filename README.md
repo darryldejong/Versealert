@@ -1,6 +1,7 @@
 # Bible Verse Notifier
 
 This Python program sends random Bible verses as notifications to your desktop.
+![Voorbeeld](Image.png)
 
 ## Features
 
