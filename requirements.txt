@@ -1,0 +1,2 @@
+win10toast
+pip install win10toast (CLI or terminal)
